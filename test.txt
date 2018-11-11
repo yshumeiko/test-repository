@@ -1,0 +1,1 @@
+Check if PR detects the update branch rebase and merge --ff-only to target branch
